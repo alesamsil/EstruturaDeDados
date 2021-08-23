@@ -4,5 +4,7 @@ Criei esse repositório para organizar meus exercícios de Estrutura de Dados pa
 
 -> Sobre: 
 Instituição: Universidade Federal Fluminende (UFF)
+
 Docente: Prof°. Dr°. Dalessandro Soares Vianna
+
 Disciplina: Estrutura de Dados  
