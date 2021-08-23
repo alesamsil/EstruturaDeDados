@@ -1,3 +1,11 @@
+/* Universidade Federal Fluminense
+   Instituto de Ciência e Tecnologia de Rio das Ostras
+   Trabalho de Grafos
+   Disciplina: Estrutura de Dados
+   Docente: Prof°. Dr°. Dalessandro Soares Vianna
+   Discinte: Alessandro Sampaio
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>

@@ -1,3 +1,11 @@
+/* Universidade Federal Fluminense
+   Instituto de Ciência e Tecnologia de Rio das Ostras
+   Trabalho de TAD
+   Disciplina: Estrutura de Dados
+   Docente: Prof°. Dr°. Dalessandro Soares Vianna
+   Discinte: Alessandro Sampaio
+*/
+
 typedef struct arvore *Arvore;
 Arvore inicializar();
 Arvore inserir(Arvore a, int n, char c, void *x);

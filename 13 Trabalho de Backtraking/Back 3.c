@@ -1,3 +1,11 @@
+/* Universidade Federal Fluminense
+   Instituto de Ciência e Tecnologia de Rio das Ostras
+   Trabalho de Backtraking
+   Disciplina: Estrutura de Dados
+   Docente: Prof°. Dr°. Dalessandro Soares Vianna
+   Discinte: Alessandro Sampaio
+*/
+
 #include<stdlib.h>
 #include<stdio.h>
 void imprime(float *qtd,float *moedas){

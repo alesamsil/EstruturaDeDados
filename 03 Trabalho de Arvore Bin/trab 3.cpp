@@ -1,3 +1,11 @@
+/* Universidade Federal Fluminense
+   Instituto de CiÃªncia e Tecnologia de Rio das Ostras
+   Trabalho de Arvore Binaria II
+   Disciplina: Estrutura de Dados
+   Docente: ProfÂ°. DrÂ°. Dalessandro Soares Vianna
+   Discinte: Alessandro Sampaio
+*/
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <math.h> 
@@ -219,7 +227,7 @@ int main (void){
 						break;
 					}
 					case 4:{
-						printf ("Impressão em Largura\n\n");
+						printf ("Impressï¿½o em Largura\n\n");
 						nivel=0;
 						w=altura(a);
 						imprimir_largura(a,nivel,cont,w);
@@ -228,7 +236,7 @@ int main (void){
 						break;
 					}
 					case 5:{
-						printf ("Impressão em Nivel\n\n");
+						printf ("Impressï¿½o em Nivel\n\n");
 						printf ("Digite o nivel desejado\n");
 						scanf ("%d",&nivel);
 						printf (" \n");
