@@ -1,6 +1,6 @@
 Olá!
 
-Criei esse repositório para organizar meus exercícios de Estrutura de Dados para eventuais apoio/consultas.
+Criei esse repositório para organizar meus exercícios de aula sobre Estrutura de Dados para eventuais consultas.
 
 -> Sobre: 
 Instituição: Universidade Federal Fluminende (UFF)
